@@ -2,15 +2,15 @@
 
 This project is an interactive sales dashboard built using **Python** and **Excel** to analyze and visualize sales data for **Vrinda Store**. It uses Python to process the data and Excel to present it in a visually appealing format.
 
-![Dashboard Screenshot](Screenshot%202025-04-12%20134644.png)
+![Dashboard Screenshot](Screenshot%202025-04-12%20134644.png)  ...
 
----
+--------
 
 ## 🧾 Overview
 
-The **Sales Visualization Dashboard** is designed to help businesses easily understand their sales performance. With the combination of Python for data handling and Excel for charting, this project provides a powerful tool for data-driven decision making.
+The **Sales Visualization Dashboard** is designed to help businesses easily understand their sales performance. With the combination of Python for data handling and Excel for charting, this project provides a powerful tool for data-driven decision making and for better analaysis
 
----
+-----
 
 ## ✅ Features
 
@@ -34,3 +34,4 @@ The **Sales Visualization Dashboard** is designed to help businesses easily unde
 ## 🚀 How to Use: 
 
 1. **Clone the Repository**  
+2. **Make chnages**
