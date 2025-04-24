@@ -38,7 +38,7 @@ def clean_data(df):
             return 'Male'
         else:
             return np.nan
-
+# clean gender column
     df['Gender'] = df['Gender'].apply(clean_gender)
 
     # Clean Qty column
