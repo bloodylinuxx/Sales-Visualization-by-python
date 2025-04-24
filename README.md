@@ -4,7 +4,7 @@ This project is an interactive sales dashboard built using **Python** and **Exce
 
 ![Dashboard Screenshot](Screenshot%202025-04-12%20134644.png)
 
----
+--------
 
 ## 🧾 Overview
 
