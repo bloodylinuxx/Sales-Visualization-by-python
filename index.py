@@ -8,7 +8,6 @@ import warnings
 warnings.filterwarnings('ignore')
 
 
-
 sns.set_style('whitegrid')
 
 def load_data(file_path):
