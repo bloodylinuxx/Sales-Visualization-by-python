@@ -8,7 +8,7 @@ import warnings
 warnings.filterwarnings('ignore')
 
 sns.set_style('whitegrid')
-
+#loading the data
 def load_data(file_path):
     try:
         df = pd.read_excel(file_path)
