@@ -7,7 +7,6 @@ from scipy.stats import ttest_ind, f_oneway, chi2_contingency, levene
 import warnings
 warnings.filterwarnings('ignore')
 
-
 sns.set_style('whitegrid')
 
 def load_data(file_path):
@@ -39,7 +38,7 @@ def clean_data(df):
             return 'Male'
         else:
             return np.nan
-# clean gender column
+
     df['Gender'] = df['Gender'].apply(clean_gender)
 
     # Clean Qty column
