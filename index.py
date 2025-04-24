@@ -6,7 +6,7 @@ from matplotlib.ticker import FuncFormatter
 from scipy.stats import ttest_ind, f_oneway, chi2_contingency, levene
 import warnings
 warnings.filterwarnings('ignore')
-
+# main
 sns.set_style('whitegrid')
 
 def load_data(file_path):
