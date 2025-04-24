@@ -34,3 +34,4 @@ The **Sales Visualization Dashboard** is designed to help businesses easily unde
 ## 🚀 How to Use: 
 
 1. **Clone the Repository**  
+2. **Make chnages**
