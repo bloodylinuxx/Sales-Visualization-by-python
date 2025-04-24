@@ -1,4 +1,3 @@
-#this is to import python libraries
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -7,9 +6,9 @@ from matplotlib.ticker import FuncFormatter
 from scipy.stats import ttest_ind, f_oneway, chi2_contingency, levene
 import warnings
 warnings.filterwarnings('ignore')
-#start
+
 sns.set_style('whitegrid')
-#this is to load data
+
 def load_data(file_path):
     try:
         df = pd.read_excel(file_path)
@@ -39,7 +38,7 @@ def clean_data(df):
             return 'Male'
         else:
             return np.nan
-# clean gender column
+
     df['Gender'] = df['Gender'].apply(clean_gender)
 
     # Clean Qty column
