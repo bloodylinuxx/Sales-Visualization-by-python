@@ -8,7 +8,7 @@ This project is an interactive sales dashboard built using **Python** and **Exce
 
 ## 🧾 Overview
 
-The **Sales Visualization Dashboard** is designed to help businesses easily understand their sales performance. With the combination of Python for data handling and Excel for charting, this project provides a powerful tool for data-driven decision making.
+The **Sales Visualization Dashboard** is designed to help businesses easily understand their sales performance. With the combination of Python for data handling and Excel for charting, this project provides a powerful tool for data-driven decision making and for better analaysis
 
 ---
 
